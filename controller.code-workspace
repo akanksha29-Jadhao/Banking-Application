@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../controller"
+		},
+		{
+			"path": "../dao"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../model"
+		}
+	]
+}
